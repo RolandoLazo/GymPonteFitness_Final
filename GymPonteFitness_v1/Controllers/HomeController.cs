@@ -1,4 +1,4 @@
-﻿using GymPonteFitness_v1.Models;
+﻿using AppJuanJose_Rolando.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace GymPonteFitness_v1.Controllers
+namespace AppJuanJose_Rolando.Controllers
 {
     public class HomeController : Controller
     {
